@@ -6,3 +6,4 @@
 ask for a
 figma design for some commits
 and extra stf
+check for some design (inspo)
